@@ -1,0 +1,59 @@
+Assignment 2: 
+Due date: 7th September
+
+1q.
+a. Describe the different types of positioning used in CSS. 
+
+There are four different position values:
+
+static
+relative
+fixed
+absolute
+
+An element with position: static; is not positioned in any special way; it is always positioned according to the normal flow of the page:
+An element with position: relative; is positioned relative to its normal position.
+An element with position: fixed; is positioned relative to the viewport, which means it always stays in the same place even if the page is scrolled. The top, right, bottom, and left properties are used to position the element.
+An element with position: absolute; is positioned relative to the nearest positioned ancestor (instead of positioned relative to the viewport, like fixed).
+
+
+
+3q.
+What is the difference between section and article elements in HTML5?
+The <section> element is for containing distinct different areas of functionality or subjects area, or breaking an article or story up into different sections.
+<article> is for containing related individual standalone pieces of content, such as individual blog posts, videos, images or news items. If you have a number of items of content, each of which would be suitable for reading on their own.
+
+4q.
+What are the various types of semantic elements in HTML5. Please describe them briefly
+
+<article>  The <article> element specifies independent, self-contained content.
+<aside> Defines content aside from the page content
+<details> Defines additional details that the user can view or hide
+<figcaption>The purpose of a figure caption is to add a visual explanation to an image.
+<figure>     Specifies self-contained content, like illustrations, diagrams, photos, code listings, etc.
+<footer> A footer typically contains the author of the document, copyright information, links to terms of use, contact information, etc.
+<header>  The <header> element specifies a header for a document or section.
+<main> Specifies the main content of a document
+<mark> Defines marked/highlighted text
+<nav> The <nav> element defines a set of navigation links.
+<section> The <section> element defines a section in a document.
+<summary> Defines a visible heading for a <details> element
+<time> Defines a date/time
+
+
+.
+5q. What is the difference in a and b
+a defines the style for the selectors simultaneously where as b defines the 3 selectors sequentially
+
+a. #myId, .myClass p, #myidTwo p:first-child a {
+  color;blue;
+}
+b.#myId {
+  color:blue;
+}
+.myClass p {
+  color:blue;
+}
+#myidTwo p:first-child a {
+  color:blue;
+}

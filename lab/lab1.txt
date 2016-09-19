@@ -1,0 +1,24 @@
+Lab 1
+Lab assignments will serve the purpose of practical application of this course.
+
+Q. Design a form for flight booking. It should contain the following fields:
+
+a. Type of trip (One way, round trip etc.). This should be a drop down list or radio buttons.
+
+b. Source and destination input fields.
+
+c. Departure and return dates.
+
+d. Other relevant information, such as, class, number of adults or children etc.
+
+e. A submit button.
+
+Submission status
+Submission status    No attempt
+Grading status    Not graded
+Due date    Wednesday, September 21, 2016, 12:00 AM
+Time remaining    1 day 11 hours
+Last modified    -
+Submission comments    
+CommentsComments (0)
+Add submission

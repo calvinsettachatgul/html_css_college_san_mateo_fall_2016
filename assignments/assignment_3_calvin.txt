@@ -1,0 +1,33 @@
+Assignment 3
+
+1q. Create a form with username, password, email address field and submit buttons in a fieldset. 
+<form method="post">
+<fieldset>
+  username: <input type="text" name="username"><br>
+  password: <input type="text" name="password"><br>
+  email address: <input type="text" name="email"><br>
+  <input type="submit" value="Submit">
+</fieldset>
+</form>
+
+
+2q. Which of the following is correct in javaScript? d and e
+
+a. int a = 2;
+b. (int) a = 2;
+c. int (a) = 2;
+d. a = 2;
+e. var a = 2;
+
+3q. What is missing in the following form element, given that it is being posted to the server?
+<form method="post">
+....
+
+<input type="submit" value="Submit">
+</form>
+
+a. <input type="text" value="2" id="inputTypeOne">
+b. <input type="text" value="4" id="">
+c. <input type="text" value=" " id="inputTypeOne">
+d. <input type="text" value=" " id=" ">
+

@@ -1,0 +1,16 @@
+body {
+	background-color: blue;
+	
+}
+
+input[type="submit"] {
+	color: red;
+}
+
+fieldset#formArea {
+	background-color: yellow;
+}
+
+#reason {
+	color: blue;
+}

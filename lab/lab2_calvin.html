@@ -1,0 +1,35 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Flight Booking</title>
+		<link rel="stylesheet" href="./lab2_calvin.css"/>
+	</head>
+	<body>
+		<form method="post">
+			<fieldset id="formArea">
+						
+			<h2 id="reason">This form is for buying a ticket</h2>
+				Type:</br>
+				<input type="radio" name="type" value="One-way" required>One-way</input>
+				<input type="radio" name="type" value="Round-trip" required>Round-trip</input></br>
+				Source:</br>
+				<input type="text" name="source" required></input></br>
+				Destination:</br>
+				<input type="text" name="destination" required></input></br>
+				Depart Date:</br>
+				<input type="date" name="departureDate" required></input></br>
+				Return Date:</br>
+				<input type="date" name="returnDate" required></input></br>
+				Class:</br>
+				<input type="radio" name="class" value="Coach">Coach</input></br>
+                                <input type="radio" name="class" value="Business">Business</input></br>
+                                <input type="radio" name="class" value="Firstclass">Firstclass</input></br>
+				Number of Adults:</br>
+				<input type="number" name="numberAdults" min="0" max="10" value="0"></input></br>
+				Number of Children:</br>
+				<input type="number" name="numberChildren" min="0" max="10" value="0"></input></br>
+				<input type="submit" value="Submit"></input></br>
+			</fieldset>
+		</form>
+	</body>
+</html>

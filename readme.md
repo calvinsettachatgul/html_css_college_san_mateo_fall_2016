@@ -1,9 +1,5 @@
 ### html css  at college of san mateo fall 2016
 
-
-==============================
-==============================
-
 RECOMMENDED TEXTBOOKS, SYLLABUS, GRADING POLICY AND OFFICE HOURS
 Recommended textbooks for CIS 127:
 
@@ -399,58 +395,72 @@ program segments (similar to programming assignments); Assessment of group parti
 
 projects, including peer-assessment of participation and contribution to the group effort.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 AUGUST 20 - AUGUST 26
  Lecture One File
-Not completed: Lecture One. Select to mark as complete.
 
 AUGUST 27 - SEPTEMBER 2
  Lecture Two File
-Not completed: Lecture Two. Select to mark as complete.
  Assignment 1: HTML and CSS Basics
-Not completed: Assignment 1: HTML and CSS Basics. Select to mark as complete.
 
 SEPTEMBER 3 - SEPTEMBER 9
  Assignment 2
-Not completed: Assignment 2. Select to mark as complete.
  Lecture_3 File
-Not completed: Lecture_3. Select to mark as complete.
 
 SEPTEMBER 10 - SEPTEMBER 16
  Assignment 3
-Not completed: Assignment 3. Select to mark as complete.
  HTML Forms Forum
-Not completed: HTML Forms. Select to mark as complete.
  Lab 1 Assignment
-Not completed: Lab 1. Select to mark as complete.
  Lecture_4 File
-Not completed: Lecture_4. Select to mark as complete.
 
 SEPTEMBER 17 - SEPTEMBER 23
  JavaScript Functions by Douglas Crockford URL
-Not completed: JavaScript Functions by Douglas Crockford. Select to mark as complete.
  HTML Forms: II Forum
-Not completed: HTML Forms: II. Select to mark as complete.
  Lecture_5 File
-Not completed: Lecture_5. Select to mark as complete.
 
 SEPTEMBER 24 - SEPTEMBER 30
  Lab 2 Assignment
-Not completed: Lab 2. Select to mark as complete.
  Lecture_6 File
-Not completed: Lecture_6. Select to mark as complete.
 
 OCTOBER 1 - OCTOBER 7
  Media Elements File
-Not completed: Media Elements. Select to mark as complete.
-This week
+
 OCTOBER 8 - OCTOBER 14
  Canvas File
-Not completed: Canvas. Select to mark as complete.
  JavaScript Best Practices URL
-Not completed: JavaScript Best Practices. Select to mark as complete.
  Web Sockets and Canvas Assignment
-Not completed: Web Sockets and Canvas. Select to mark as complete.
  Web Socket related Discussion Forum
-Not completed: Web Socket related Discussion. Select to mark as complete.
 
 OCTOBER 15 - OCTOBER 21
+ Midterm File
+ Midterm Upload Link Assignment
+
+OCTOBER 22 - OCTOBER 28
+ HTML5 Reference Link URL
+ CSS Reference Material URL
+
+OCTOBER 29 - NOVEMBER 4
+ Class Notes: HTML Lists, Nested Lists, Tables File
+ Assignment: Due Nov 11 2016 before 11:45 PM
+This week
+NOVEMBER 5 - NOVEMBER 11
+
+NOVEMBER 12 - NOVEMBER 18
+
+NOVEMBER 19 - NOVEMBER 25
+
+NOVEMBER 26 - DECEMBER 2
+
+DECEMBER 3 - DECEMBER 9

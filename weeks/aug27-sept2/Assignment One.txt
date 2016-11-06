@@ -1,0 +1,32 @@
+                                                                      Assignment 1
+
+1Q. Which of the following statements are true?
+a. HTML is a programming language for web pages
+b. HTML and CSS are both programming languages for web pages
+c. There is no difference between HTML and HTML5
+d. CSS can be included in an HTML document
+
+2Q. Which of the following statements are true?
+a. HEAD element can sometimes be used to display elements on the web page
+b. CSS can be added to both BODY and HEAD elements
+c. CSS can never be added to BODY elements
+d. CSS can exist in an independent file 
+
+3Q. Please provide three different types of character sets for HTML documents.
+4Q. What is wrong with the following HTML content
+<!doctype HTML>
+<HTML>
+<body>
+<head>
+<title> It Works! </title>
+</head>
+<p> Am I wrong? </p>
+<div> <h1>Am I right? </h1></div>
+</body>
+</HTML>
+
+5Q. Which of the following statements are true? 
+a. HTML document will not be displayed if I do not have closing tags
+b. Without <!doctype HTML>, the web page will not display the contents
+c. Adding external CSS is a good practice for various reasons, including code organization
+d. External CSS always has precedence over others

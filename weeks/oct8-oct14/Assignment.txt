@@ -1,0 +1,10 @@
+Task 1:
+
+Create a web application using HTML5 Canvas
+
+Task 2:
+
+Create a web application using HTML5 Web Sockets
+
+
+
